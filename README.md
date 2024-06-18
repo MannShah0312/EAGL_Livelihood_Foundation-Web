@@ -82,9 +82,10 @@ To set up the project locally:
    ```
 
 ## Contributors
+- MannShah0312
 - Aadil0904 
 - Manav39 
-- MannShah0312 
+- Ankit0431 
 - priyamaggarwal18 
 - itzzsuj 
 - yashikalawani
