@@ -68,7 +68,7 @@ To set up the project locally:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Cookie-Byte-Egal 
+   cd Eagl_Livelihood_Foundation-Web 
    ```
 3. Install dependencies for the web application:
    ```bash
