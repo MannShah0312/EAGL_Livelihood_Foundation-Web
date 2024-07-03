@@ -32,6 +32,9 @@ This NGO Management System is designed to streamline operations for the NGO, spe
   - Submit listings of items for sale to the NGO.
   - Admins can review and purchase listed items.
 
+### Videos of the web and Web-App Solution
+https://drive.google.com/drive/folders/1Ow6dgtPMo1gI8L57Xa4k5-5FJfIY9OTP?usp=sharing
+
 ## User Types
 1. **Admins:**
    - Foundation personnel with access to all system functionalities.
